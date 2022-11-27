@@ -1,0 +1,470 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+ header{
+    padding: 10px 0;
+}
+    .logo {
+    font-size: 18px;
+}
+.menu {
+    text-align: right;
+    padding: 10px 0px !important;
+}
+.menu ul li a{
+    padding: 0px !important;
+    margin: 5px 0;
+}
+.dp_m[data-bs-popper] {
+    left: -12px;
+}
+.dp_m{
+    width: 275px;
+}
+/*slider start*/
+.s_item h2 {
+    font-size: 26px;
+}
+.s_item p {
+    margin: 20px 0;
+}
+.s_item {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.c_title {
+    margin-bottom: 18px;
+    margin-top: 0px;
+}
+.h_to {
+    margin-top: 28px;
+}
+.p_p {
+    margin-bottom: 31px;
+}
+.work {
+    padding: 0 0 40px;
+}
+hr {
+    width: 288px;
+}
+.h_r {
+    width: 296px;
+}
+.choose{
+    padding-bottom: 40px;
+}
+.wrap {
+    margin: 30px auto 0;
+}
+.c_item {
+    margin: 30px auto 0;
+    text-align: center;
+}
+
+/*pricing*/
+.p_items{
+    margin-top: 25px;
+}
+/*pricing end*/
+
+/*respon*/
+.price {
+    padding: 50px 0 38px;
+}
+.respon {
+    margin-bottom: 38px;
+}
+.tex a{
+    font-size: 14px;
+}
+.text h2{
+    font-size: 21px;
+}
+/*respon*/
+/*contact*/
+.t_h2, .t_h4 {
+    text-align: center;
+}
+.t_p{
+    text-align: center;
+}
+
+/*contact*/
+.hh_r {
+    margin-top: 7px;
+}
+.contact {
+    margin-bottom: 34px;
+}
+.cont {
+    padding-bottom: 34px;
+}
+/*form*/
+.form {
+    padding-bottom: 40px;
+}
+/*form end*/
+.nabi ul li a {
+    padding: 8px 5px !important;
+    font-size: 14px;
+}
+
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+ header{
+    padding: 12px 0;
+}
+    .logo {
+    font-size: 20px;
+}
+.menu {
+    text-align: right;
+    padding: 10px 0px !important;
+}
+.menu ul li a{
+    padding: 0px !important;
+    margin: 5px 0;
+}
+.dp_m[data-bs-popper] {
+    left: 138px;
+}
+/*slider start*/
+.s_item h2 {
+    font-size: 40px;
+}
+.s_item p {
+    margin: 25px 0;
+}
+.s_item {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+/*recent*/
+.na_v ul li{
+    padding: 8px 0 !important;
+}
+
+.h_to {
+    margin-top: 30px;
+}
+.p_p {
+    margin-bottom: 35px;
+}
+.work {
+    padding: 0 0 50px;
+}
+hr {
+    width: 485px;
+}
+.choose {
+    padding-bottom: 20px;
+}
+.h_r {
+    width: 489px;
+}
+.c_item {
+    text-align: center;
+}
+.wrap{
+    margin-top: 30px;
+}
+
+/*pricing*/
+.price {
+    padding: 50px 0 44px;
+}
+.p_items{
+    margin-top: 30px;
+}
+/*pricing end*/
+
+/*respon*/
+.tex a{
+    font-size: 14px;
+}
+.text {
+
+    padding-top: 38px;
+}
+.text h2{
+    font-size: 21px;
+}
+.respon {
+    margin-bottom: 36px;
+}
+/*respon*/
+
+/*contact*/
+.t_h2, .t_h4 {
+    margin-left: 167px;
+}
+.t_h4{
+    margin-bottom: 12px;
+}
+.pict img{
+    margin-left: 103px;
+    height: 309px;
+}
+.t_p{
+    margin-bottom: 8px;
+     margin-left: 167px;
+}
+.t_h2{
+    margin-top: 12px;
+}
+/*contact*/
+.contact {
+    margin-bottom: 42px;
+}
+.hh_r {
+    width: 127px;
+}
+.cont {
+    padding-bottom: 34px;
+}
+/*form*/
+.form {
+    padding-bottom: 40px;
+}
+/*form end*/
+
+
+
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+ header{
+    padding: 16px 0;
+}
+.logo {
+    font-size: 21px;
+}
+.menu {
+    text-align: right;
+    padding: 10px 0px !important;
+}
+.menu ul li a{
+    padding: 0px !important;
+    margin: 5px 0;
+}
+
+.dp_m[data-bs-popper] {
+        top: 63px;
+    left: 317px;
+}
+/*slider start*/
+.s_item h2 {
+    font-size: 46px;
+}
+.s_item p {
+    margin: 35px 0;
+}
+.s_item {
+    margin-top: 170px;
+    margin-bottom: 170px;
+}
+/*about*/
+.ab_img{
+    height: 400px;
+}
+.p_p {
+    margin-bottom: 49px;
+}
+.h_to {
+    margin-bottom: 15px;
+}
+.work {
+    padding: 0 0 50px;
+}
+/*choose*/
+hr {
+    width: 300px;
+}
+.c_item {
+    margin-top: 10px;
+}
+.choose {
+    padding-bottom: 35px;
+}
+.wrap {
+    margin: 40px auto 0;
+}
+
+/*pricing*/
+.p_items{
+    margin-top: 30px;
+}
+.price {
+    padding: 50px 0 51px;
+}
+/*pricing end*/
+
+/*respon*/
+.respon {
+    margin-bottom: 46px;
+}
+/*respon end*/
+/*contact*/
+.t_ori {
+    height: 507px;
+}
+.t_pa {
+        margin-top: 36px;
+    margin-left: 28px;
+}
+.t_paa{
+    margin-top: 138px;
+        margin-left: 28px;
+}
+.t_s{
+    margin-top: 108px;
+}
+.pict img {
+    height: 363px;
+    margin-top: 36px;
+}
+/*contact*/
+.hh_r {
+    width: 182px;
+}
+
+/*form*/
+.form {
+    padding-bottom: 40px;
+}
+/*form end*/
+
+
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+ header{
+    padding: 18px 0;
+}
+/*slider start*/
+.s_item h2 {
+    font-size: 50px;
+}
+.s_item p {
+    margin: 35px 0;
+}
+.s_item {
+    margin-top: 180px;
+    margin-bottom: 180px;
+}
+.h_to {
+    margin-bottom: 3px;
+}
+.p_p {
+    margin-bottom: 12px;
+}
+hr {
+    width: 284px;
+}
+.p_i{
+    margin: 20px -8px;
+}
+
+.wrap{
+    margin-top: 20px;
+}
+
+.c_title {
+    margin-bottom: 65px;
+}
+/*PRICING START*/
+.p_items {
+    padding-left: 20px;
+}
+.p_items h2 {
+    font-size: 25px;
+}
+
+/*PRICING END*/
+
+/*respon*/
+.text h2{
+        font-size: 28px;
+}
+/*respon end*/
+
+/*contact*/
+.choose {
+    padding-bottom: 50px;
+}
+.t_ori {
+    height: 392px;
+}
+.t_pa {
+        margin-top: 36px;
+    margin-left: 8px;
+}
+.t_paa{
+        margin-left: 8px;
+}
+/*.sp_a{
+        margin-left: 8px;
+}*/
+.t_s{
+        margin-left: 1px;
+}
+/*contact*/
+.ch_img {
+    max-width: 88%;
+}
+.h_p {
+    width: 224px;
+}
+.h_p p {
+    margin-left: 10px;
+}
+
+
+
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /*recent*/
+.p_p {
+    margin-bottom: 30px;
+}
+.s_item h2 {
+    font-size: 59px;
+}
+
+/*about*/
+.w_box{
+        margin: 20px 39px 0;
+}
+/*choose start*/
+.choose {
+    padding-bottom: 50px;
+}
+/*contact*/
+.t_pa {
+    margin-left: 16px;
+}
+.t_paa{
+        margin-left: 16px;
+}
+/*.sp_a{
+        margin-left: 8px;
+}*/
+.t_s{
+        margin-left: 8px;
+}
+/*contact*/
+
+
+}
+
+ /*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+
+}
